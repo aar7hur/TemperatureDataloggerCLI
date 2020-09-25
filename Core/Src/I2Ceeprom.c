@@ -1,9 +1,3 @@
-/*
- * I2Ceeprom.c
- *
- *  Created on: 28 de out de 2019
- *      Author: L04347
- */
 
 
 #include <string.h>
